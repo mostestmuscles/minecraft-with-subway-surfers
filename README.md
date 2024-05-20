@@ -1,5 +1,5 @@
 # Playing Minecraft with Subway Surfers
-- Link to the video demonstration: [https://youtu.be/GARhnWDKDCA]
+- Link to the video demonstration: [[https://youtu.be/GARhnWDKDCA]](https://youtu.be/CUsOjA9R1mE)
 
 ## Prerequisites: 
 - Download Python3 (Coding Language)
